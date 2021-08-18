@@ -12,3 +12,37 @@ height: 550px;
 height: 50px;
 width: 80px;
 }
+.area img
+{
+height: 150px;
+}
+.navbar
+{
+background-color: rgb(12, 51, 77);
+}
+
+/* #navbarSupportedContent a
+{
+color: white;
+} */
+.s2
+{
+font-size: 30px;
+}
+.s2 i
+{
+color: white;
+/* color: rgb(12, 51, 77); */
+}
+.s3
+{
+font-size: 15px;
+}
+.s3 i
+{
+color: white;
+}
+.rain a
+{
+color: black;
+}
