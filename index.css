@@ -1,4 +1,57 @@
+
+.logo
+{
+height: 60px;
+width: 100px;
+}
+nav i
+{
+color: white;
+}
+.header
+{
+background-color: rgb(12, 51, 77);
+}
+.nav-link
+{
+color: white;
+}
 .s1
+{
+color: yellow;
+font-weight: 800;
+}
+.s2
+{
+font-size: 29px;
+}
+.s2 i
+{
+color: white; 
+}
+.btn-default
+{
+padding: 10px;
+}
+.area img
+{
+height: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .s1
 {
 color: yellow;
 font-weight: 800;
@@ -18,14 +71,15 @@ height: 150px;
 }
 .navbar
 {
-background-color: rgb(12, 51, 77);
+background-color: rgb(12, 51, 77); 
+background-color: blanchedalmond;
 }
 
 /* #navbarSupportedContent a
 {
 color: white;
 } */
-.s2
+/* .s2
 {
 font-size: 30px;
 }
@@ -44,4 +98,4 @@ color: white;
 .rain a
 {
 color: black;
-}
+}  */
